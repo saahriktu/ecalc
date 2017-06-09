@@ -1,0 +1,10 @@
+ecalc v3.2
+RPN noninteractive command line calculator with 2 registers: X and Y
+
+Example:
+echo " 2+ 3+=" | ./ecalc
+will return "x,y":
+3.000000,5.000000
+
+License: GNU GPLv3
+Author: Artem Kurashov
